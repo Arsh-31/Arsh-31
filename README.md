@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Arsh!;Greek+Mythology+Fan+%F0%9F%8F%9B%EF%B8%8F;Star+and+Sky+Lover+%E2%AD%90" alt="Typing SVG" />
+  Hi, I'm Arsh!
 </h1>
 
-<h3 align="center">A passionate person fascinated by the sky and stars 🌌</h3>
+<h5 align="center">A passionate person fascinated by the sky and stars</h5>
 
 - 🔭 I’m currently working on **something that can be your study buddy**
 
